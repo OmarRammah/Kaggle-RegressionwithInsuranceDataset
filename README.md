@@ -18,5 +18,4 @@ The following imports are needed for running the code:
 - from torch.utils.data import DataLoader as DataLoader
 - import torch.optim as optim
 - from torch.utils.data import TensorDataset
-- 
 
